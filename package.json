@@ -4,7 +4,7 @@
   "description": "Podcast App. CSS Grid, Flexbox, Gulp, SASS",
   "main": "index.js",
   "scripts": {
-    "dev": "gulp"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Juan De la torre @codigoconjuan",
   "license": "ISC",
